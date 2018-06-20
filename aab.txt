@@ -1,0 +1,873 @@
+Array
+(
+    [ehtype] => 2
+    [ehtimelist] => a:20:{i:231;s:0:"";i:240;s:0:"";i:259;s:0:"";i:282;s:0:"";i:283;s:0:"";i:315;s:0:"";i:322;s:0:"";i:325;s:0:"";i:369;s:0:"";i:378;s:0:"";i:21;s:0:"";i:25;s:0:"";i:28;s:0:"";i:40;s:0:"";i:50;s:0:"";i:57;s:0:"";i:59;s:0:"";i:164;s:0:"";i:189;s:0:"";i:8451;s:0:"";}
+    [ehexam] => 测试随机试卷
+    [ehexamid] => 2
+    [ehbasicid] => 1
+    [ehquestion] => Array
+        (
+            [questionids] => Array
+                (
+                    [question] => Array
+                        (
+                            [1] => Array
+                                (
+                                    [0] => 7
+                                    [1] => 10
+                                    [2] => 51
+                                    [3] => 59
+                                    [4] => 96
+                                    [5] => 100
+                                    [6] => 126
+                                    [7] => 132
+                                    [8] => 165
+                                    [9] => 227
+                                )
+
+                            [2] => Array
+                                (
+                                    [0] => 238
+                                    [1] => 240
+                                    [2] => 255
+                                    [3] => 263
+                                    [4] => 322
+                                    [5] => 326
+                                    [6] => 340
+                                    [7] => 362
+                                    [8] => 366
+                                    [9] => 381
+                                )
+
+                        )
+
+                    [questionrow] => 
+                    [setting] => Array
+                        (
+                            [examid] => 2
+                            [examsubject] => 1
+                            [exam] => 测试随机试卷
+                            [examsetting] => Array
+                                (
+                                    [examtime] => 60
+                                    [comfrom] => 11
+                                    [score] => 100
+                                    [passscore] => 60
+                                    [questypelite] => Array
+                                        (
+                                            [2] => 1
+                                            [3] => 1
+                                            [1] => 1
+                                            [4] => 1
+                                            [5] => 1
+                                        )
+
+                                    [scalemodel] => 0
+                                    [questype] => Array
+                                        (
+                                            [1] => Array
+                                                (
+                                                    [number] => 10
+                                                    [score] => 5
+                                                    [describe] => 
+                                                    [easynumber] => 10
+                                                    [middlenumber] => 0
+                                                    [hardnumber] => 0
+                                                )
+
+                                            [2] => Array
+                                                (
+                                                    [number] => 10
+                                                    [score] => 5
+                                                    [describe] => 
+                                                    [easynumber] => 10
+                                                    [middlenumber] => 0
+                                                    [hardnumber] => 0
+                                                )
+
+                                            [3] => Array
+                                                (
+                                                    [number] => 0
+                                                    [score] => 0
+                                                    [describe] => 
+                                                    [easynumber] => 0
+                                                    [middlenumber] => 0
+                                                    [hardnumber] => 0
+                                                )
+
+                                            [4] => Array
+                                                (
+                                                    [number] => 0
+                                                    [score] => 0
+                                                    [describe] => 
+                                                    [easynumber] => 0
+                                                    [middlenumber] => 0
+                                                    [hardnumber] => 0
+                                                )
+
+                                            [5] => Array
+                                                (
+                                                    [number] => 0
+                                                    [score] => 0
+                                                    [describe] => 
+                                                    [easynumber] => 0
+                                                    [middlenumber] => 0
+                                                    [hardnumber] => 0
+                                                )
+
+                                        )
+
+                                )
+
+                            [examquestions] => 
+                            [examscore] => 
+                            [examstatus] => 0
+                            [examtype] => 1
+                            [examauthorid] => 1
+                            [examauthor] => peadmin
+                            [examtime] => 1434015369
+                            [examkeyword] => 
+                            [examdecide] => 0
+                        )
+
+                )
+
+            [questions] => Array
+                (
+                    [1] => Array
+                        (
+                            [7] => Array
+                                (
+                                    [questionid] => 7
+                                    [questiontype] => 1
+                                    [question] => 1934年10月，中央红军开始长征后，留在中央根据地领导南方游击战争的是（）。
+                                    [questionuserid] => 0
+                                    [questionusername] => 
+                                    [questionlastmodifyuser] => 
+                                    [questionselect] => &lt;p&gt;A、彭德怀项英&lt;/p&gt;&lt;p&gt;B、项英陈毅&lt;/p&gt;&lt;p&gt;C、叶挺粟裕&lt;/p&gt;&lt;p&gt;D、粟裕陈毅&lt;/p&gt;
+                                    [questionselectnumber] => 4
+                                    [questionanswer] => B
+                                    [questiondescribe] => 
+                                    [questionknowsid] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [knowsid] => 1
+                                                    [knows] => 党史
+                                                )
+
+                                        )
+
+                                    [questioncreatetime] => 1372247397
+                                    [questionstatus] => 1
+                                    [questionhtml] => 
+                                    [questionparent] => 0
+                                    [questionsequence] => 0
+                                    [questionlevel] => 1
+                                )
+
+                            [10] => Array
+                                (
+                                    [questionid] => 10
+                                    [questiontype] => 1
+                                    [question] => 党的七大是中国共产党在民主革命时期召开的极其重要的一次、也是最后一次代表大会。它的一个重大历史性贡献是确立（）为党的指导思想并写入党章。
+                                    [questionuserid] => 0
+                                    [questionusername] => 
+                                    [questionlastmodifyuser] => 
+                                    [questionselect] => &lt;p&gt;A、马克思列宁主义&lt;/p&gt;&lt;p&gt;B、毛泽东思想&lt;/p&gt;&lt;p&gt;C、邓小平理论&lt;/p&gt;&lt;p&gt;D、三个代表&lt;/p&gt;
+                                    [questionselectnumber] => 4
+                                    [questionanswer] => B
+                                    [questiondescribe] => 
+                                    [questionknowsid] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [knowsid] => 1
+                                                    [knows] => 党史
+                                                )
+
+                                        )
+
+                                    [questioncreatetime] => 1372247397
+                                    [questionstatus] => 1
+                                    [questionhtml] => 
+                                    [questionparent] => 0
+                                    [questionsequence] => 0
+                                    [questionlevel] => 1
+                                )
+
+                            [51] => Array
+                                (
+                                    [questionid] => 51
+                                    [questiontype] => 1
+                                    [question] => 世界和平与发展的主要障碍是（）。
+                                    [questionuserid] => 0
+                                    [questionusername] => 
+                                    [questionlastmodifyuser] => 
+                                    [questionselect] => &lt;p&gt;A、宗教问题和领土争端&lt;/p&gt;&lt;p&gt;B、恐怖主义和民族矛盾&lt;/p&gt;&lt;p&gt;C、贫富差距和地区冲突&lt;/p&gt;&lt;p&gt;D、霸权主义和强权政治&lt;/p&gt;
+                                    [questionselectnumber] => 4
+                                    [questionanswer] => D
+                                    [questiondescribe] => 
+                                    [questionknowsid] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [knowsid] => 1
+                                                    [knows] => 党史
+                                                )
+
+                                        )
+
+                                    [questioncreatetime] => 1372247397
+                                    [questionstatus] => 1
+                                    [questionhtml] => 
+                                    [questionparent] => 0
+                                    [questionsequence] => 0
+                                    [questionlevel] => 1
+                                )
+
+                            [59] => Array
+                                (
+                                    [questionid] => 59
+                                    [questiontype] => 1
+                                    [question] => 学习贯彻“三个代表”重要思想，根本目的是（）。
+                                    [questionuserid] => 0
+                                    [questionusername] => 
+                                    [questionlastmodifyuser] => 
+                                    [questionselect] => &lt;p&gt;A、推动全党更好地带领人民群众把中国特色社会主义事业推向前进&lt;/p&gt;&lt;p&gt;B、实现全面建设小康社会的宏伟目标&lt;/p&gt;&lt;p&gt;C、用科学理论武装全体人民&lt;/p&gt;&lt;p&gt;D、完善公有制为主体的多种所有制并存的制度&lt;/p&gt;
+                                    [questionselectnumber] => 4
+                                    [questionanswer] => A
+                                    [questiondescribe] => 
+                                    [questionknowsid] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [knowsid] => 1
+                                                    [knows] => 党史
+                                                )
+
+                                        )
+
+                                    [questioncreatetime] => 1372247397
+                                    [questionstatus] => 1
+                                    [questionhtml] => 
+                                    [questionparent] => 0
+                                    [questionsequence] => 0
+                                    [questionlevel] => 1
+                                )
+
+                            [96] => Array
+                                (
+                                    [questionid] => 96
+                                    [questiontype] => 1
+                                    [question] => 家庭联产承包责任制之所以能在全国普遍推进，根本原因是（）。
+                                    [questionuserid] => 0
+                                    [questionusername] => 
+                                    [questionlastmodifyuser] => 
+                                    [questionselect] => &lt;p&gt;A、党作出了改革开放的决策&lt;/p&gt;&lt;p&gt;B、满足了广大农民对土地的要求&lt;/p&gt;&lt;p&gt;C、符合中国农村生产力发展水平的实际&lt;/p&gt;&lt;p&gt;D、适应了我国人多地少的现实&lt;/p&gt;
+                                    [questionselectnumber] => 4
+                                    [questionanswer] => C
+                                    [questiondescribe] => 
+                                    [questionknowsid] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [knowsid] => 1
+                                                    [knows] => 党史
+                                                )
+
+                                        )
+
+                                    [questioncreatetime] => 1372247397
+                                    [questionstatus] => 1
+                                    [questionhtml] => 
+                                    [questionparent] => 0
+                                    [questionsequence] => 0
+                                    [questionlevel] => 1
+                                )
+
+                            [100] => Array
+                                (
+                                    [questionid] => 100
+                                    [questiontype] => 1
+                                    [question] => 中国载人航天工程新闻发言人2010年10月27日表示，我国（）工程已正式启动实施，2020年前后将建成规模较大、长期有人参与的国家级太空实验室。
+                                    [questionuserid] => 0
+                                    [questionusername] => 
+                                    [questionlastmodifyuser] => 
+                                    [questionselect] => &lt;p&gt;A、载人空间站&lt;/p&gt;&lt;p&gt;B、绕月探测&lt;/p&gt;&lt;p&gt;C、登月探测&lt;/p&gt;&lt;p&gt;D、载人航空器&lt;/p&gt;
+                                    [questionselectnumber] => 4
+                                    [questionanswer] => A
+                                    [questiondescribe] => 
+                                    [questionknowsid] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [knowsid] => 1
+                                                    [knows] => 党史
+                                                )
+
+                                        )
+
+                                    [questioncreatetime] => 1372247397
+                                    [questionstatus] => 1
+                                    [questionhtml] => 
+                                    [questionparent] => 0
+                                    [questionsequence] => 0
+                                    [questionlevel] => 1
+                                )
+
+                            [126] => Array
+                                (
+                                    [questionid] => 126
+                                    [questiontype] => 1
+                                    [question] => 党的十五大把( )写入党章,确立为党的指导思想。
+                                    [questionuserid] => 0
+                                    [questionusername] => 
+                                    [questionlastmodifyuser] => 
+                                    [questionselect] => &lt;p&gt;A、建设有中国特色社会主义理论&lt;/p&gt;&lt;p&gt;B、邓小平理论&lt;/p&gt;&lt;p&gt;C、“三个代表”重要思想&lt;/p&gt;&lt;p&gt;D、科学发展观&lt;/p&gt;
+                                    [questionselectnumber] => 4
+                                    [questionanswer] => C
+                                    [questiondescribe] => 
+                                    [questionknowsid] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [knowsid] => 1
+                                                    [knows] => 党史
+                                                )
+
+                                        )
+
+                                    [questioncreatetime] => 1372247397
+                                    [questionstatus] => 1
+                                    [questionhtml] => 
+                                    [questionparent] => 0
+                                    [questionsequence] => 0
+                                    [questionlevel] => 1
+                                )
+
+                            [132] => Array
+                                (
+                                    [questionid] => 132
+                                    [questiontype] => 1
+                                    [question] => 1957年全党开展整风运动的主题是（）。
+                                    [questionuserid] => 0
+                                    [questionusername] => 
+                                    [questionlastmodifyuser] => 
+                                    [questionselect] => &lt;p&gt;A、百花齐放、百家争鸣&lt;/p&gt;&lt;p&gt;B、反对官僚主义&lt;/p&gt;&lt;p&gt;C、正确处理人民内部矛盾&lt;/p&gt;&lt;p&gt;D、反自由主义&lt;/p&gt;
+                                    [questionselectnumber] => 4
+                                    [questionanswer] => C
+                                    [questiondescribe] => 
+                                    [questionknowsid] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [knowsid] => 1
+                                                    [knows] => 党史
+                                                )
+
+                                        )
+
+                                    [questioncreatetime] => 1372247397
+                                    [questionstatus] => 1
+                                    [questionhtml] => 
+                                    [questionparent] => 0
+                                    [questionsequence] => 0
+                                    [questionlevel] => 1
+                                )
+
+                            [165] => Array
+                                (
+                                    [questionid] => 165
+                                    [questiontype] => 1
+                                    [question] => 在生产发展和社会财富增长的基础上不断满足人民日益增长的物质文化需要，促进（）的全面发展。
+                                    [questionuserid] => 0
+                                    [questionusername] => 
+                                    [questionlastmodifyuser] => 
+                                    [questionselect] => &lt;p&gt;A、经济&lt;/p&gt;&lt;p&gt;B、社会&lt;/p&gt;&lt;p&gt;C、国家&lt;/p&gt;&lt;p&gt;D、人&lt;/p&gt;
+                                    [questionselectnumber] => 4
+                                    [questionanswer] => D
+                                    [questiondescribe] => 
+                                    [questionknowsid] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [knowsid] => 2
+                                                    [knows] => 党章
+                                                )
+
+                                        )
+
+                                    [questioncreatetime] => 1372247397
+                                    [questionstatus] => 1
+                                    [questionhtml] => 
+                                    [questionparent] => 0
+                                    [questionsequence] => 0
+                                    [questionlevel] => 1
+                                )
+
+                            [227] => Array
+                                (
+                                    [questionid] => 227
+                                    [questiontype] => 1
+                                    [question] => 党组织讨论决定问题，必须执行（）的原则。（B）
+                                    [questionuserid] => 0
+                                    [questionusername] => 
+                                    [questionlastmodifyuser] => 
+                                    [questionselect] => &lt;p&gt;A、个人服从组织&lt;/p&gt;&lt;p&gt;B、少数服从多数&lt;/p&gt;&lt;p&gt;C、下级服从上级&lt;/p&gt;&lt;p&gt;D、党员服从党组织&lt;/p&gt;
+                                    [questionselectnumber] => 4
+                                    [questionanswer] => B
+                                    [questiondescribe] => 
+                                    [questionknowsid] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [knowsid] => 2
+                                                    [knows] => 党章
+                                                )
+
+                                        )
+
+                                    [questioncreatetime] => 1372247397
+                                    [questionstatus] => 1
+                                    [questionhtml] => 
+                                    [questionparent] => 0
+                                    [questionsequence] => 0
+                                    [questionlevel] => 1
+                                )
+
+                        )
+
+                    [2] => Array
+                        (
+                            [238] => Array
+                                (
+                                    [questionid] => 238
+                                    [questiontype] => 2
+                                    [question] => 1949年３月，在党的七届二中全会上，毛泽东告诫全党，必须警惕资产阶级“糖衣炮弹”的攻击；务必继续地保持（）的作风，务必继续地保持艰苦奋斗的作风。
+                                    [questionuserid] => 0
+                                    [questionusername] => 
+                                    [questionlastmodifyuser] => 
+                                    [questionselect] => &lt;p&gt;A、谦虚&lt;/p&gt;&lt;p&gt;B、谨慎&lt;/p&gt;&lt;p&gt;C、不骄&lt;/p&gt;&lt;p&gt;D、不躁&lt;/p&gt;
+                                    [questionselectnumber] => 4
+                                    [questionanswer] => ABCD
+                                    [questiondescribe] => 
+                                    [questionknowsid] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [knowsid] => 1
+                                                    [knows] => 党史
+                                                )
+
+                                        )
+
+                                    [questioncreatetime] => 1372247435
+                                    [questionstatus] => 1
+                                    [questionhtml] => 
+                                    [questionparent] => 0
+                                    [questionsequence] => 0
+                                    [questionlevel] => 1
+                                )
+
+                            [240] => Array
+                                (
+                                    [questionid] => 240
+                                    [questiontype] => 2
+                                    [question] => 中国共产党在中国新民主主义革命中战胜敌人的三大法宝是（）。
+                                    [questionuserid] => 0
+                                    [questionusername] => 
+                                    [questionlastmodifyuser] => 
+                                    [questionselect] => &lt;p&gt;A、统一战线&lt;/p&gt;&lt;p&gt;B、工农割据&lt;/p&gt;&lt;p&gt;C、武装斗争&lt;/p&gt;&lt;p&gt;D、党的建设&lt;/p&gt;
+                                    [questionselectnumber] => 4
+                                    [questionanswer] => ACD
+                                    [questiondescribe] => 
+                                    [questionknowsid] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [knowsid] => 1
+                                                    [knows] => 党史
+                                                )
+
+                                        )
+
+                                    [questioncreatetime] => 1372247435
+                                    [questionstatus] => 1
+                                    [questionhtml] => 
+                                    [questionparent] => 0
+                                    [questionsequence] => 0
+                                    [questionlevel] => 1
+                                )
+
+                            [255] => Array
+                                (
+                                    [questionid] => 255
+                                    [questiontype] => 2
+                                    [question] => 邓小平在强调马克思主义要与中国实际相结合时，指出（）
+                                    [questionuserid] => 0
+                                    [questionusername] => 
+                                    [questionlastmodifyuser] => 
+                                    [questionselect] => &lt;p&gt;A、我国建设有中国特色的社会主义，是真正坚持了马克思主义&lt;/p&gt;&lt;p&gt;B、只有结合中国实际的马克思主义，才是我们所需要的真正的马克思主义&lt;/p&gt;&lt;p&gt;C、我们要坚持的马克思主义，必须是同中国实际相结合的马克思主义&lt;/p&gt;&lt;p&gt;D、真正的马克思主义者必须根据现在的情况，认识、继承和发展马列主义&lt;/p&gt;
+                                    [questionselectnumber] => 4
+                                    [questionanswer] => ABCD
+                                    [questiondescribe] => 
+                                    [questionknowsid] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [knowsid] => 1
+                                                    [knows] => 党史
+                                                )
+
+                                        )
+
+                                    [questioncreatetime] => 1372247435
+                                    [questionstatus] => 1
+                                    [questionhtml] => 
+                                    [questionparent] => 0
+                                    [questionsequence] => 0
+                                    [questionlevel] => 1
+                                )
+
+                            [263] => Array
+                                (
+                                    [questionid] => 263
+                                    [questiontype] => 2
+                                    [question] => 在处理国家之间的关系上，中国坚持的原则是（）
+                                    [questionuserid] => 0
+                                    [questionusername] => 
+                                    [questionlastmodifyuser] => 
+                                    [questionselect] => &lt;p&gt;A、相互尊重主权和领土完整&lt;/p&gt;&lt;p&gt;B、互不侵犯&lt;/p&gt;&lt;p&gt;C、互不干涉内政&lt;/p&gt;&lt;p&gt;D、平等互利和和平共处&lt;/p&gt;
+                                    [questionselectnumber] => 4
+                                    [questionanswer] => ABCD
+                                    [questiondescribe] => 
+                                    [questionknowsid] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [knowsid] => 1
+                                                    [knows] => 党史
+                                                )
+
+                                        )
+
+                                    [questioncreatetime] => 1372247435
+                                    [questionstatus] => 1
+                                    [questionhtml] => 
+                                    [questionparent] => 0
+                                    [questionsequence] => 0
+                                    [questionlevel] => 1
+                                )
+
+                            [322] => Array
+                                (
+                                    [questionid] => 322
+                                    [questiontype] => 2
+                                    [question] => 新世纪，党的三大历史任务是。（）
+                                    [questionuserid] => 0
+                                    [questionusername] => 
+                                    [questionlastmodifyuser] => 
+                                    [questionselect] => &lt;p&gt;A、全面建成小康社会&lt;/p&gt;&lt;p&gt;B、实现推进现代化建设&lt;/p&gt;&lt;p&gt;C、完成祖国统一&lt;/p&gt;&lt;p&gt;D、维护世界和平与促进共同发展&lt;/p&gt;
+                                    [questionselectnumber] => 4
+                                    [questionanswer] => BCD
+                                    [questiondescribe] => 
+                                    [questionknowsid] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [knowsid] => 2
+                                                    [knows] => 党章
+                                                )
+
+                                        )
+
+                                    [questioncreatetime] => 1372247435
+                                    [questionstatus] => 1
+                                    [questionhtml] => 
+                                    [questionparent] => 0
+                                    [questionsequence] => 0
+                                    [questionlevel] => 1
+                                )
+
+                            [326] => Array
+                                (
+                                    [questionid] => 326
+                                    [questiontype] => 2
+                                    [question] => 改革开放应当（），勇于开拓，提高改革决策的科学性，增强（）的协调性，在实践中开创新路。（）
+                                    [questionuserid] => 0
+                                    [questionusername] => 
+                                    [questionlastmodifyuser] => 
+                                    [questionselect] => &lt;p&gt;A、解放思想&lt;/p&gt;&lt;p&gt;B、大胆探索&lt;/p&gt;&lt;p&gt;C、改革方案&lt;/p&gt;&lt;p&gt;D、改革措施&lt;/p&gt;
+                                    [questionselectnumber] => 4
+                                    [questionanswer] => BD
+                                    [questiondescribe] => 
+                                    [questionknowsid] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [knowsid] => 2
+                                                    [knows] => 党章
+                                                )
+
+                                        )
+
+                                    [questioncreatetime] => 1372247435
+                                    [questionstatus] => 1
+                                    [questionhtml] => 
+                                    [questionparent] => 0
+                                    [questionsequence] => 0
+                                    [questionlevel] => 1
+                                )
+
+                            [340] => Array
+                                (
+                                    [questionid] => 340
+                                    [questiontype] => 2
+                                    [question] => 中央书记处成员由（）会提名，（）通过。（）
+                                    [questionuserid] => 0
+                                    [questionusername] => 
+                                    [questionlastmodifyuser] => 
+                                    [questionselect] => &lt;p&gt;A、中央委员会总书记&lt;/p&gt;&lt;p&gt;B、中央政治局常务委员&lt;/p&gt;&lt;p&gt;C、中央委员会全体会议&lt;/p&gt;&lt;p&gt;D、全国党代会&lt;/p&gt;
+                                    [questionselectnumber] => 4
+                                    [questionanswer] => BC
+                                    [questiondescribe] => 
+                                    [questionknowsid] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [knowsid] => 2
+                                                    [knows] => 党章
+                                                )
+
+                                        )
+
+                                    [questioncreatetime] => 1372247435
+                                    [questionstatus] => 1
+                                    [questionhtml] => 
+                                    [questionparent] => 0
+                                    [questionsequence] => 0
+                                    [questionlevel] => 1
+                                )
+
+                            [362] => Array
+                                (
+                                    [questionid] => 362
+                                    [questiontype] => 2
+                                    [question] => 党和国家的各项工作都要把有利于发展社会主义社会的生产力，有利于增强（），有利于提高（），作为总的出发点和检验标准。（）
+                                    [questionuserid] => 0
+                                    [questionusername] => 
+                                    [questionlastmodifyuser] => 
+                                    [questionselect] => &lt;p&gt;A、社会主义国家的综合国力&lt;/p&gt;&lt;p&gt;B、社会主义国家的经济实力&lt;/p&gt;&lt;p&gt;C、人民的生活水平&lt;/p&gt;&lt;p&gt;D、人民的和谐幸福&lt;/p&gt;
+                                    [questionselectnumber] => 4
+                                    [questionanswer] => AC
+                                    [questiondescribe] => 
+                                    [questionknowsid] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [knowsid] => 2
+                                                    [knows] => 党章
+                                                )
+
+                                        )
+
+                                    [questioncreatetime] => 1372247435
+                                    [questionstatus] => 1
+                                    [questionhtml] => 
+                                    [questionparent] => 0
+                                    [questionsequence] => 0
+                                    [questionlevel] => 1
+                                )
+
+                            [366] => Array
+                                (
+                                    [questionid] => 366
+                                    [questiontype] => 2
+                                    [question] => 坚持社会主义道路、坚持（）、坚持（）、坚持马克思列宁主义毛泽东思想这四项基本原则，是我们的立国之本。（）
+                                    [questionuserid] => 0
+                                    [questionusername] => 
+                                    [questionlastmodifyuser] => 
+                                    [questionselect] => &lt;p&gt;A、改革开放&lt;/p&gt;&lt;p&gt;B、人民民主专政&lt;/p&gt;&lt;p&gt;C、以经济建设为中心&lt;/p&gt;&lt;p&gt;D、中国共产党的领导&lt;/p&gt;
+                                    [questionselectnumber] => 4
+                                    [questionanswer] => BD
+                                    [questiondescribe] => 
+                                    [questionknowsid] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [knowsid] => 2
+                                                    [knows] => 党章
+                                                )
+
+                                        )
+
+                                    [questioncreatetime] => 1372247435
+                                    [questionstatus] => 1
+                                    [questionhtml] => 
+                                    [questionparent] => 0
+                                    [questionsequence] => 0
+                                    [questionlevel] => 1
+                                )
+
+                            [381] => Array
+                                (
+                                    [questionid] => 381
+                                    [questiontype] => 2
+                                    [question] => 党的民主集中制的基本原则的“四个服从”，即（），（），（），全党各个组织和全体党员服从党的全国代表大会和中央委员会。（）
+                                    [questionuserid] => 0
+                                    [questionusername] => 
+                                    [questionlastmodifyuser] => 
+                                    [questionselect] => &lt;p&gt;A、党员个人服从党的组织&lt;/p&gt;&lt;p&gt;B、少数服从多数&lt;/p&gt;&lt;p&gt;C、下级组织服从上级组织&lt;/p&gt;&lt;p&gt;D、错误意见服从正确意见&lt;/p&gt;
+                                    [questionselectnumber] => 4
+                                    [questionanswer] => ABC
+                                    [questiondescribe] => 
+                                    [questionknowsid] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [knowsid] => 2
+                                                    [knows] => 党章
+                                                )
+
+                                        )
+
+                                    [questioncreatetime] => 1372247435
+                                    [questionstatus] => 1
+                                    [questionhtml] => 
+                                    [questionparent] => 0
+                                    [questionsequence] => 0
+                                    [questionlevel] => 1
+                                )
+
+                        )
+
+                )
+
+            [questionrows] => Array
+                (
+                )
+
+        )
+
+    [ehsetting] => Array
+        (
+            [examid] => 2
+            [examsubject] => 1
+            [exam] => 测试随机试卷
+            [examsetting] => Array
+                (
+                    [examtime] => 60
+                    [comfrom] => 11
+                    [score] => 100
+                    [passscore] => 60
+                    [questypelite] => Array
+                        (
+                            [2] => 1
+                            [3] => 1
+                            [1] => 1
+                            [4] => 1
+                            [5] => 1
+                        )
+
+                    [scalemodel] => 0
+                    [questype] => Array
+                        (
+                            [1] => Array
+                                (
+                                    [number] => 10
+                                    [score] => 5
+                                    [describe] => 
+                                    [easynumber] => 10
+                                    [middlenumber] => 0
+                                    [hardnumber] => 0
+                                )
+
+                            [2] => Array
+                                (
+                                    [number] => 10
+                                    [score] => 5
+                                    [describe] => 
+                                    [easynumber] => 10
+                                    [middlenumber] => 0
+                                    [hardnumber] => 0
+                                )
+
+                            [3] => Array
+                                (
+                                    [number] => 0
+                                    [score] => 0
+                                    [describe] => 
+                                    [easynumber] => 0
+                                    [middlenumber] => 0
+                                    [hardnumber] => 0
+                                )
+
+                            [4] => Array
+                                (
+                                    [number] => 0
+                                    [score] => 0
+                                    [describe] => 
+                                    [easynumber] => 0
+                                    [middlenumber] => 0
+                                    [hardnumber] => 0
+                                )
+
+                            [5] => Array
+                                (
+                                    [number] => 0
+                                    [score] => 0
+                                    [describe] => 
+                                    [easynumber] => 0
+                                    [middlenumber] => 0
+                                    [hardnumber] => 0
+                                )
+
+                        )
+
+                )
+
+            [examquestions] => 
+            [examscore] => 
+            [examstatus] => 0
+            [examtype] => 1
+            [examauthorid] => 1
+            [examauthor] => peadmin
+            [examtime] => 1434015369
+            [examkeyword] => 
+            [examdecide] => 0
+        )
+
+    [ehuseranswer] => 
+    [ehstarttime] => 1529486726
+    [ehtime] => 2363
+    [ehscore] => 0.0
+    [ehscorelist] => Array
+        (
+            [7] => 0
+            [10] => 0
+            [51] => 0
+            [59] => 0
+            [96] => 0
+            [100] => 0
+            [126] => 0
+            [132] => 0
+            [165] => 0
+            [227] => 0
+            [238] => 0
+            [240] => 0
+            [255] => 0
+            [263] => 0
+            [322] => 0
+            [326] => 0
+            [340] => 0
+            [362] => 0
+            [366] => 0
+            [381] => 0
+        )
+
+    [ehuserid] => 8
+    [ehusername] => guest
+    [ehdecide] => 0
+    [ehstatus] => 1
+)
